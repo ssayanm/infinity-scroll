@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+
+$font-stack: "Oswald", sans-serif;
+
+$primary-color: hsl(217, 100%, 53%);
+$secondary-color: hsl(31, 100%, 51%);
+$light-color: hsl(0, 0%, 96%);
+$dark-color: hsl(0, 0%, 6%);
+$dark-background: hsla(0, 0%, 0%, 0.4);
+$light-background: hsla(0, 0%, 0%, 0.2);
+$gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+
+$large: 4rem;
+$medium: 2.75rem;
+$small: 2rem;
+$smallest: 1.3rem;
